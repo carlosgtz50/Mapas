@@ -198,7 +198,9 @@
 </Schema>
 <Folder><name>Chihuahua</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style>
+		<LineStyle><color>267F00</color></LineStyle>
+		<PolyStyle><fill>267F00</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Chihuahua">
 		<SimpleData name="CVEGEO">08</SimpleData>
 		<SimpleData name="NOM_ENT">Chihuahua</SimpleData>
