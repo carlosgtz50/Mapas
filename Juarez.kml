@@ -199,7 +199,7 @@
 </Schema>
 <Folder><name>Juarez</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ffffffff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Juarez">
 		<SimpleData name="CVEGEO">08037</SimpleData>
 		<SimpleData name="NOM_ENT">Chihuahua</SimpleData>
