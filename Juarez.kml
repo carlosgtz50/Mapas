@@ -197,9 +197,16 @@
 	<SimpleField name="VPH_INTER" type="int"></SimpleField>
 	<SimpleField name="OID" type="int"></SimpleField>
 </Schema>
+<Style id="examplePolyStyle">
+	<LineStyle><color>ffffffff</color></LineStyle>
+    <PolyStyle>
+      <color>ff0000cc</color>
+      <colorMode>random</colorMode>
+    </PolyStyle>
+  </Style>
 <Folder><name>Juarez</name>
   <Placemark>
-	<Style><LineStyle><color>ffffffff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<styleUrl>#examplePolyStyle</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#Juarez">
 		<SimpleData name="CVEGEO">08037</SimpleData>
 		<SimpleData name="NOM_ENT">Chihuahua</SimpleData>
