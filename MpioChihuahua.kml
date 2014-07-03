@@ -208,7 +208,7 @@
   </Style>
 <Folder><name>MpioChihuahua</name>
   <Placemark>
-  	<name>Chihuahua</name>
+  	<name>08019</name>
 	<styleUrl>#mpioChihuahuaStyle</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#MpioChihuahua">
 		<SimpleData name="CVEGEO">08019</SimpleData>
