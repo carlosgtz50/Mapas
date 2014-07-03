@@ -206,6 +206,7 @@
   </Style>
 <Folder><name>Juarez</name>
   <Placemark>
+  	<name>Juarez</name>
 	<styleUrl>#examplePolyStyle</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#Juarez">
 		<SimpleData name="CVEGEO">08037</SimpleData>
