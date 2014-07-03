@@ -203,7 +203,7 @@
 </Style>
 <Folder><name>Chihuahua</name>
   <Placemark>
-  	<name>EdoChihuahua</name>
+  	<name>08019</name>
 	<styleUrl>#ChihuahuaStyle</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#Chihuahua">
 		<SimpleData name="CVEGEO">08</SimpleData>
