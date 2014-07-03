@@ -197,9 +197,18 @@
 	<SimpleField name="VPH_INTER" type="int"></SimpleField>
 	<SimpleField name="OID" type="int"></SimpleField>
 </Schema>
+<Style id="mpioChihuahuaStyle">
+    <LineStyle>
+    	<color>50004614</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>50004614</color>
+      <colorMode>normal</colorMode>
+    </PolyStyle>
+  </Style>
 <Folder><name>MpioChihuahua</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<styleUrl>#mpioChihuahuaStyle</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#MpioChihuahua">
 		<SimpleData name="CVEGEO">08019</SimpleData>
 		<SimpleData name="NOM_ENT">Chihuahua</SimpleData>
