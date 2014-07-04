@@ -9,10 +9,10 @@
 </LabelStyle>
 <BalloonStyle><text>$[description]</text>
 </BalloonStyle>
-<LineStyle><color>FF00A933</color>
+<LineStyle><color>FFFFFFFF</color>
 <width>1</width>
 </LineStyle>
-<PolyStyle><color>5078BEF0</color>
+<PolyStyle><color>5014008C</color>
 <fill>1</fill>
 </PolyStyle>
 </Style>
