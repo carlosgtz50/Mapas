@@ -7,13 +7,11 @@
 <LabelStyle><scale>0.6</scale>
 <color>FFFFFFFF</color>
 </LabelStyle>
-<BalloonStyle><text>$[description]</text>
-</BalloonStyle>
-<LineStyle><color>FF00A933</color>
+<LineStyle><color>ffffffff</color>
 <width>1</width>
 </LineStyle>
-<PolyStyle><color>FF00A933</color>
-<fill>0</fill>
+<PolyStyle><color>50140050</color>
+<fill>1</fill>
 </PolyStyle>
 </Style>
 <Placemark><name>08001</name>
