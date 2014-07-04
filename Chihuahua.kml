@@ -200,6 +200,9 @@
     <LineStyle>
     	<color>501478FF</color>
     </LineStyle>
+    <PolyStyle>
+    	<fill>0</fill>
+    </PolyStyle>
 </Style>
 <Folder><name>Chihuahua</name>
   <Placemark>
